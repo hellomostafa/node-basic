@@ -1,3 +1,2 @@
-console.log('Hello World')
-
-console.log("Hi, Mostafa")
+var a = 10;
+console.log(a)
