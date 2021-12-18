@@ -1,2 +1,3 @@
-var a = 10;
-console.log(a)
+const people = require('./people')
+
+console.log(people)
